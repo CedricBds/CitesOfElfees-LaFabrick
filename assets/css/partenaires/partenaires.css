@@ -1,0 +1,46 @@
+.discoverAll_ptTwo, .discoverAll_ptOne{
+    display: grid!important;
+}
+
+main{
+    padding-top: 150px;
+}
+
+
+.centered{
+    text-align: center!important;
+}
+
+.detailYt{
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.youtube{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    height: 500px;
+    background-color: rgba(0, 0, 0, 0.294);
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.youtube h2{
+    color: white;
+                    font-family: 'Baloo Bhaijaan 2', cursive;
+                    text-align: center;
+
+}
+
+.youtuber{
+    background-color: #610a0a;
+    border-bottom: 5px solid #470808;
+    box-shadow: 2px 5px 20px black;
+}
+
+.youtuber:hover{
+    background-color: #610a0a;
+    border-bottom: 8px solid #470808;
+    box-shadow: 2px 5px 50px black;
+}

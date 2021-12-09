@@ -6,7 +6,7 @@
             <li><a href="/carte.php" class="navitem">Carte</a></li>
             <li><a href="/calendrier.php" class="navitem">Calendrier</a></li>
             <li><a href="/equipes.php" class="navitem">équipes</a></li>
-            <li><a href="" class="navitem">Partenaires</a></li>
+            <li><a href="/partenaires.php" class="navitem">Partenaires</a></li>
         </ul>
     </nav>
 

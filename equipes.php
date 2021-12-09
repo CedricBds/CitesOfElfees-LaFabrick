@@ -25,7 +25,10 @@
     require './views/nav/navigation.php';
     ?>
     <main>
+
         <section class="equipes">
+            <!-- AJOUT EQUIPE-->
+
             <section class="equipeBox">
                 <div class="nameTeam">
                     <h2>Nom de l'équipe</h2>
@@ -35,10 +38,33 @@
                     <div class="row">
                         <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
                         <span>remyxe972</span>
-                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                        <div class="links"> <a class="twitch" target="_blank" href="LIEN TWITCH"><i class="fab fa-twitch"></i></a><a href="YOUTUBE" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
                     </div>
                 </div>
             </section>
+            <!--FIN AJOUT EQUIPE-->
+
+
             <section class="equipeBox">
                 <div class="nameTeam">
                     <h2>Nom de l'équipe</h2>
@@ -48,10 +74,32 @@
                     <div class="row">
                         <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
                         <span>remyxe972</span>
-                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
                     </div>
                 </div>
             </section>
+
+
             <section class="equipeBox">
                 <div class="nameTeam">
                     <h2>Nom de l'équipe</h2>
@@ -61,10 +109,31 @@
                     <div class="row">
                         <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
                         <span>remyxe972</span>
-                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
                     </div>
                 </div>
             </section>
+
             <section class="equipeBox">
                 <div class="nameTeam">
                     <h2>Nom de l'équipe</h2>
@@ -74,10 +143,32 @@
                     <div class="row">
                         <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
                         <span>remyxe972</span>
-                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
                     </div>
                 </div>
             </section>
+
+
             <section class="equipeBox">
                 <div class="nameTeam">
                     <h2>Nom de l'équipe</h2>
@@ -87,10 +178,212 @@
                     <div class="row">
                         <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
                         <span>remyxe972</span>
-                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
                     </div>
                 </div>
             </section>
+
+
+            <section class="equipeBox">
+                <div class="nameTeam">
+                    <h2>Nom de l'équipe</h2>
+                </div>
+
+                <div class="members">
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+            <section class="equipeBox">
+                <div class="nameTeam">
+                    <h2>Nom de l'équipe</h2>
+                </div>
+
+                <div class="members">
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+            <section class="equipeBox">
+                <div class="nameTeam">
+                    <h2>Nom de l'équipe</h2>
+                </div>
+
+                <div class="members">
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+            <section class="equipeBox">
+                <div class="nameTeam">
+                    <h2>Nom de l'équipe</h2>
+                </div>
+
+                <div class="members">
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="equipeBox">
+                <div class="nameTeam">
+                    <h2>Nom de l'équipe</h2>
+                </div>
+
+                <div class="members">
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="disabled"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                    <div class="row">
+                        <img class="headMan" src="https://mc-heads.net/avatar/remyxe972" alt="">
+                        <span>remyxe972</span>
+                        <div class="links"> <a class="twitch" target="_blank" href=""><i class="fab fa-twitch"></i></a><a href="" target="_blank" class="youtube"><i class="fab fa-youtube"></i></a> </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+
         </section>
 
     </main>

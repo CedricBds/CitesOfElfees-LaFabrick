@@ -1,17 +1,14 @@
 .equipes{
     display: grid;
     grid-template-columns: repeat(2, auto);
-    padding: 20px;
-    height: fit-content;
+    padding-top: 150px;
     align-items: center;
-    position: relative;
-    top: 100px;
 }
 
 .equipeBox{
     margin: 10px;
-    height: 400px;
-    background-color: rgba(0, 0, 0, 0.5);
+    height: 500px;
+    background-color: rgb(0 0 0 / 62%);
 }
 
 .nameTeam{
@@ -74,4 +71,8 @@ color: white;
 
 .twitch i{
     color: #8d028a;
+}
+
+.disabled{
+   color: rgb(79 77 77 / 59%)!important;
 }
