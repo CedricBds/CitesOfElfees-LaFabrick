@@ -1,0 +1,77 @@
+.equipes{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    padding: 20px;
+    height: fit-content;
+    align-items: center;
+    position: relative;
+    top: 100px;
+}
+
+.equipeBox{
+    margin: 10px;
+    height: 400px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.nameTeam{
+        background-color: rgba(0, 0, 0, 0.726);
+
+    height: 50px;
+    display: flex;
+    align-items: center;
+            font-family: 'Baloo Bhaijaan 2', cursive;
+color: white;
+    justify-content: center;
+}
+
+.headMan{
+    height: 50px;
+}
+
+.members{
+    display: grid;
+    grid-template-rows: repeat(5, auto);
+    align-items: center;
+}
+.members span{
+                font-family: 'Baloo Bhaijaan 2', cursive;
+color: white;
+    display: flex;
+    align-items: center;
+}
+
+.members img{
+    padding: 20px;
+}
+
+.row{
+        display: flex;
+    justify-content: space-around;
+}
+
+.row span{
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: brightness(0.5);
+}
+
+.links a{
+    color: white;
+    margin: 15px;
+    font-size: 30px;
+}
+
+.youtube i {
+    color: #e90000;
+}
+
+.twitch i{
+    color: #8d028a;
+}

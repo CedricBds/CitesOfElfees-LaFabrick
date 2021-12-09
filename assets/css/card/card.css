@@ -1,0 +1,17 @@
+.cardPage{
+    bottom: 0!important;
+}
+
+.cardPage img{
+            height: 655px!important;
+}
+
+.cardPage h1{
+    color: white;
+        font-family: 'Baloo Bhaijaan 2', cursive;
+        position: relative;
+        top: 40px;
+        font-size: 30px;
+        margin-bottom: 0px;
+        letter-spacing: 2px;
+}

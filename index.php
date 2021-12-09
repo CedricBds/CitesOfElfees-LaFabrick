@@ -38,7 +38,7 @@
                 <p>La cité des sables est un événement orienté PVP créé par le youtubeur Zelvac.<br><br>
                     Le but du jeu est de récupérer le maximum d’émeraudes afin de devenir le roi ou la reine de ladite cité. <br><br>Pour ce faire, plusieurs équipes doivent récolter des ressources et les échanger avec les marchands de la ville contre des émeraudes, le tout sans que leur base ne se fasse piller ou sans qu’ils ne se fassent attaquer en chemin par les autres équipes !
                 </p>
-                <a href="" class="explore">Informations</a>
+                <a target="_blank" rel="noreferrer" href="https://bit.ly/3DwLLti" class="explore">Informations</a>
 
             </div>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/xoOSFxK1Pqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -51,7 +51,7 @@
 
                 <p>Nous sommes La FaBrick, un collectif d’organisateurs d’événements combinant les équipes de DiamondRift et d’Obeprod. Le présent événement, La Cité des Elfes, est notre plus gros projet en date : un mélange entre une cité des sables et un jeu de type RPG !
                 </p>
-                <a target="_blank" href="https://discord.gg/MwE6nW9aCT" class="explore">Discord</a>
+                <a target="_blank" rel="noreferrer" href="https://discord.gg/MwE6nW9aCT" class="explore">Discord</a>
             </div>
         </section>
 
