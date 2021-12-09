@@ -1,0 +1,28 @@
+header{
+    position: relative;
+    z-index: 2;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    padding-inline-start: 0px;
+    align-items: center;
+    list-style: none;
+    position: fixed;
+    width: 100%;
+    backdrop-filter: brightness(0.3);
+    margin: 0px;
+}
+
+.navitem{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Exo', sans-serif;
+    text-transform: capitalize;
+}
+
+.backToHome{
+    height: 80px;
+}
