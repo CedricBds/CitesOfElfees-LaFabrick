@@ -13,7 +13,8 @@
     <link rel="stylesheet" href="/assets/css/index/index.css">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <script src="/assets/js/equipes.js"></script>
 
     <!-- SEO -->
     <meta name="description" content="La fabrick est spécialisé dans les évennements minecraft .. .. ... ">
@@ -24,8 +25,11 @@
     <?php
     require './views/nav/navigation.php';
     ?>
-    <main>
 
+    <main>
+        <section class="cardPage">
+            <h1>Les Équipes d'Élesia</h1>
+        </section>
         <section class="equipes">
             <!-- AJOUT EQUIPE-->
 

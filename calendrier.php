@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="/assets/css/index/index.css">
     <link rel="stylesheet" href="/assets/css/common.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 
 
     <!-- JS AFFICHAGES CLIENT -->
@@ -30,6 +31,9 @@
         <section class="cardPage titleWithImage">
             <h1>Calendrier de l'événement</h1>
             <img src="/assets/img/calendar.png" alt="Calendrier d'élesia" class="mainLogo">
+        </section>
+        <section class="overlay">
+
         </section>
     </main>
     <?php

@@ -13,13 +13,14 @@
 
 .nameTeam{
         background-color: rgba(0, 0, 0, 0.726);
+    padding-inline-start: 40px;
 
     height: 50px;
     display: flex;
     align-items: center;
             font-family: 'Baloo Bhaijaan 2', cursive;
 color: white;
-    justify-content: center;
+    justify-content: start;
 }
 
 .headMan{
@@ -44,7 +45,7 @@ color: white;
 
 .row{
         display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .row span{
@@ -75,4 +76,14 @@ color: white;
 
 .disabled{
    color: rgb(79 77 77 / 59%)!important;
+}
+
+.cardPage{
+        bottom: 0!important;
+    display: flex;
+    /* margin-top: 50px; */
+    position: relative;
+    top: 100px;
+    /* text-align: center; */
+    justify-content: center;
 }

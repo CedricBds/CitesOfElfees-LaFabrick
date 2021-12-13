@@ -6,6 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
   toggleBtn.addEventListener("click", function () {
     firstContent.style.display = "grid";
     secondContent.style.display = "grid";
-    window.scroll(0, 700);
+    window.scroll({
+      top: 700,
+      left: 0,
+      behavior: "smooth",
+    });
   });
 });
